@@ -19,6 +19,11 @@
     "url": "https://github.com/BohdanAntoshkiv/hw-1-node-js/issues"
   },
   "homepage": "https://github.com/BohdanAntoshkiv/hw-1-node-js#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^3.3.4",
+    "yargs": "^17.6.2"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
